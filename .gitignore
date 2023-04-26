@@ -1,0 +1,13 @@
+.terraform/
+terraform.tfstate.backup
+.idea/
+.history
+.DS_Store
+venv/
+.envrc
+*.iml
+*.zip
+node_modules
+dist
+secret.tfvars
+.tool-versions
