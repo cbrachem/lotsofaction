@@ -1,7 +1,11 @@
-name: Replicate Buld Nodejs and deploy on aws
+name: Replicate Build Nodejs and deploy on aws
 
 on:
   workflow_dispatch:
+
+defaults:
+  run:
+    working-directory: ./foo
 
 jobs:
   build-test-deploy:
