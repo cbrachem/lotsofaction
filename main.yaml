@@ -1,0 +1,6 @@
+group: testgroup
+host: test.cbrachem.de
+htmlcontent: |
+  <html>
+  <h1>Main App</h1>
+  </html>
