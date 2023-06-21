@@ -2,5 +2,5 @@ group: testgroup
 host: b.test.cbrachem.de
 htmlcontent: |
   <html>
-  <h1>App B</h1>
+  <h1>App B is new and shiny.</h1>
   </html>
